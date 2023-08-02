@@ -16,7 +16,7 @@
 
 <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yushuishu&theme=nord_dark' width='555px'> <img align='right' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yushuishu&theme=nord_dark' width='270px'>
 
-<img src='https://github.com/yushuishu/yushuishu/blob/main/images/banner-github-1.png'>
+![banner](https://github.com/yushuishu/yushuishu/assets/50919172/deff4160-af2b-46b1-adf6-a3584f9171f4)
 
 <!--
 ### Hi there 👋 I'm yushuishu also 与谁书 <img align='right' src='https://github-readme-stats.vercel.app/api?username=yushuishu&show_icons=true&theme=cobalt' width='380px'>
@@ -26,7 +26,7 @@
 ![vulmap](https://img.shields.io/badge/-yushuishu/vulmap-3A77A9?style=flat-square&logo=python&logoColor=white&labelColor=6495ED)
 ![dismap](https://img.shields.io/badge/-yushuishu/dismap-00BFFF?style=flat-square&logo=go&logoColor=white&labelColor=87CEFA) 
 ![crkmap](https://img.shields.io/badge/-yushuishu/crkmap-00CED1?style=flat-square&logo=go&logoColor=white&labelColor=40E0D0) 
-![banner](https://github.com/yushuishu/yushuishu/blob/main/images/banner-github-1.png)
+![banner](https://github.com/yushuishu/yushuishu/assets/50919172/deff4160-af2b-46b1-adf6-a3584f9171f4)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
