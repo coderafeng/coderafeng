@@ -10,7 +10,7 @@
 - 🛫 My Gmail: [k1994583917@gmail.com](k1994583917@gmail.com)
 - 🐦 My Twitter: [https://twitter.com/yushuishu](https://twitter.com/yushuishu)  
 
-<img src='https://img.shields.io/badge/-yushuishu/web--spider--learning-3A77A9?style=flat-square&logo=python&logoColor=white&labelColor=6495ED' width='220px'> <img src='https://img.shields.io/badge/-yushuishu/nice--toolkit-033843?style=flat-square&logo=qt&logoColor=white&labelColor=24d780' width='160px'> <img src='https://img.shields.io/badge/-yushuishu/crkmap-00CED1?style=flat-square&logo=go&logoColor=white&labelColor=40E0D0' width='150px'>
+<img src='https://img.shields.io/badge/-yushuishu/web--spider--learning-3A77A9?style=flat-square&logo=python&logoColor=white&labelColor=6495ED' width='220px'> <img src='https://img.shields.io/badge/-yushuishu/nice--toolkit-033843?style=flat-square&logo=qt&logoColor=white&labelColor=24d780' width='165px'> <img src='https://img.shields.io/badge/-yushuishu/crkmap-00CED1?style=flat-square&logo=go&logoColor=white&labelColor=40E0D0' width='150px'>
 
 ***
 
